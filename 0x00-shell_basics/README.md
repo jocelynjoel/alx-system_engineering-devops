@@ -16,3 +16,5 @@
 13-symbolic_link contain command for create symbolic link
 14-copy_html contain command for copying html files from current directory to parent directory
 100-lets_move contain command to move file  begining with upper case to /tmp/u directory
+101-clean_emacs contain command to delete any files end with ~
+
