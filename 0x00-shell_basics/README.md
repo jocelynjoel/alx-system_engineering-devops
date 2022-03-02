@@ -4,3 +4,4 @@
 1-listit contain list working directory command
 2-bring_me_home contain home redirection command
 3-listfiles contain listing in long format command
+4-listmorefiles contain the list hidden files command
