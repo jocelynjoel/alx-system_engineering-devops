@@ -13,3 +13,4 @@
 10-back contain the command to move to th previous one directory
 11-lists contain command to list working directory and the parent of the working directory and the /boot directory (in this order), in long format.
 12-file_type contain the command to know filt type
+13-symbolic_link contain command for create symbolic link
