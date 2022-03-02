@@ -15,3 +15,4 @@
 12-file_type contain the command to know filt type
 13-symbolic_link contain command for create symbolic link
 14-copy_html contain command for copying html files from current directory to parent directory
+100-lets_move contain command to move file  begining with upper case to /tmp/u directory
