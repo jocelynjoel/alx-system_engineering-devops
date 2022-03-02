@@ -9,3 +9,4 @@
 6-firstdirectory contain script that creates a directory named my_first_directory in the /tmp/ directory.
 7-movethatfile contain move update commmand
 8-firstdelete contain delete file command
+9-firstdirdeletion contain command to delete a directory
