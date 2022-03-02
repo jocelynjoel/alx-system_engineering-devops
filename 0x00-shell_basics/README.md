@@ -18,3 +18,4 @@
 100-lets_move contains command to move file  begining with upper case to /tmp/u directory
 101-clean_emacs contaisn command to delete any files end with ~
 102-tree contains creation of multiples directories
+103-commas contains lists files and directory ordered by th ls command
