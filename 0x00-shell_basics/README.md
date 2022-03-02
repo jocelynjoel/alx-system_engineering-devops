@@ -11,3 +11,4 @@
 8-firstdelete contain delete file command
 9-firstdirdeletion contain command to delete a directory
 10-back contain the command to move to th previous one directory
+11-lists contain comamnd to list working directory and the parent of the working directory and the /boot directory (in this order), in long format.
