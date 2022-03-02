@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -lcan . .. /boot
+ls -lan . .. /boot
