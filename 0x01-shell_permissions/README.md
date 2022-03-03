@@ -7,3 +7,4 @@ task 6 adds execute permission to the owner of the file hello.
 task 7 adds execute permission to the owner and the group owner, and read permission to other users, to the file hello
 task 8 adds execution permission to the owner, the group owner and the other users, to the file hello
 task 9 sets the permission to the file hello
+task 10 sets the mode of the file hello
