@@ -15,3 +15,4 @@ task 13 takes a list of words as input and prints only words that appear exactly
 task 14 displays lines containing the pattern “root” from the file /etc/passwd 
 task 15 displays the number of lines that contain the pattern “bin” in the file /etc/passwd
 task 16 displays lines containing the pattern “root” and 3 lines after them in the file /etc/passwd.
+task 17 display all the lines in the file /etc/passwd that do not contain the pattern “bin”.
