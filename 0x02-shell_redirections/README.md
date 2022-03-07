@@ -21,3 +21,4 @@ include capital letters as well
 task 19 replaces all characters A and c from input to Z and e respectively.
 task 20 creates a script that removes all letters c and C from input.
 task 21 writes a script that reverse its input.
+task 22 Write a script that displays all users and their home directories, sorted by users.
