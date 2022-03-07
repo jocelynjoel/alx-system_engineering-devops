@@ -11,4 +11,5 @@ task 9 duplicates the last line of the file iacta
 task 10 deletes all the regular files (not the directories) with a .js extension that are present in the current directory and all its subfolders.
 task 11 counts the number of directories and sub-directories in the current directory.
 task 12 displays the 10 newest files in the current directory
-task 13 akes a list of words as input and prints only words that appear exactly once..
+task 13 takes a list of words as input and prints only words that appear exactly once.
+task 14 display lines containing the pattern “root” from the file /etc/passwd
