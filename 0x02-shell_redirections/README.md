@@ -12,4 +12,5 @@ task 10 deletes all the regular files (not the directories) with a .js extension
 task 11 counts the number of directories and sub-directories in the current directory.
 task 12 displays the 10 newest files in the current directory
 task 13 takes a list of words as input and prints only words that appear exactly once.
-task 14 display lines containing the pattern “root” from the file /etc/passwd
+task 14 displays lines containing the pattern “root” from the file /etc/passwd 
+task 15 display the number of lines that contain the pattern “bin” in the file /etc/passwd
