@@ -4,4 +4,5 @@ task 2 adds /action to the PATH. /action should be the last directory the shell 
 task 3 counts the number of directories in the PATH
 task 4 lists environment variables.
 task 5 lists all local variables and environment variables, and functions.
+task 6 creates a new local variable.
 
