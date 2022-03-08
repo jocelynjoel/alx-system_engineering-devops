@@ -14,6 +14,9 @@ task 12 prints all possible combinations of two letters, except oo
 task 13 prints a number with two decimal places, followed by a new line.
 task 14 converts a number from base 10 to base 16.
 task 15 encodes and decodes text using the rot13 encryption. Assume ASCII.
+task 16 prints every other line from the input, starting with the first line.
+
+
 
 
 
