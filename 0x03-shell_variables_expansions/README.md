@@ -6,6 +6,8 @@ task 4 lists environment variables.
 task 5 lists all local variables and environment variables, and functions.
 task 6 creates a new local variable.
 task 7 creates a new global variable.
+task 8 prints the result of the addition of 128 with the value stored in the environment variable TRUEKNOWLEDGE, followed by a new line.
+
 
 
 
